@@ -39,7 +39,8 @@ To run this website locally, follow these steps:
    ```bash
    git clone https://github.com/Jacousta/Portfolio-main.git
 2. Navigate into the project directory:
+    ```bash
     cd portfolio
 3. Open index.html in your web browser.
 ## Contributing
-    Contributions are welcome! If you have any suggestions, improvements, or new features, please open an issue or submit a pull request.
+Contributions are welcome! If you have any suggestions, improvements, or new features, please open an issue or submit a pull request.
