@@ -1,10 +1,45 @@
-### Responsive Portfolio website using Html, Css and JavaScript.
+# Portfolio Website
 
-![Food website](https://github.com/codersgyan/responsive-portfolio-website/blob/master/82380648_159883675567106_2350191587381739520_n.jpg?raw=true)
+This is a simple portfolio website template built using HTML, CSS, and JavaScript. It showcases my projects, skills, and provides information about me.
 
+## Table of Contents
 
-#### Demo: https://codersgyan.github.io/responsive-portfolio-website/
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
+## Demo
 
-🙏 If you find this repo helpful then don't forget to give a start ❇️  to this repository. :)
+You can view a live demo of the website here: [Your Portfolio Website URL](https://your-portfolio-url.com)
 
+## Features
+
+- Responsive design for all devices (desktops, tablets, and mobile phones)
+- Clean and modern UI design
+- Sections for projects, skills, about me, and contact information
+- Smooth animations and transitions
+- Easy navigation with a fixed sidebar
+
+## Technologies Used
+
+- HTML5
+- CSS3 (including Flexbox and Grid for layout)
+- JavaScript (ES6+)
+
+## Installation
+
+To run this website locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Jacousta/Portfolio-main.git
+2. Navigate into the project directory:
+    cd portfolio
+3. Open index.html in your web browser.
+## Contributing
+    Contributions are welcome! If you have any suggestions, improvements, or new features, please open an issue or submit a pull request.
